@@ -44,7 +44,7 @@ a {
   --section-header-align: center;
 }
 .section-header {
-    justify-content: var(--section-header-align);
+  text-align: var(--section-header-align);
 }
 .section-tagline,
 .card-category {
