@@ -1,4 +1,4 @@
-/* Effortless transitions when scrolling */
+/* Variables for storing certain font types */
 html {
   scroll-behavior: smooth;
 }
