@@ -1,13 +1,15 @@
 /* Apply universal box-sizing rule */
+
 @import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
 
-* {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
-  box-sizing: border-box;
 }
 body {
   color: #161616;
