@@ -70,6 +70,7 @@ a {
 }
 .container {
   width: 960px;
+  text-align: justify;
   text-justify: distribute-all-lines;
 }
 body,
