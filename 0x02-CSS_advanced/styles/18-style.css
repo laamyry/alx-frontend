@@ -108,7 +108,7 @@ a {
 .nav li {
   list-style: none;
 }
-.nav nav-item {
+.nav-item {
   font-family: var(--nav-item-font-family);
   font-weight: var(--nav-item-font-weight);
   font-size: var(--nav-item-font-size);
@@ -116,11 +116,11 @@ a {
   display: var(--nav-item-display);
   margin: var(--nav-item-margin);
 }
-.nav nav-link {
+.nav-link {
   display: block;
   padding: 0.5rem 1rem;
 }
-.nav nav-link:hover {
+.nav-link:hover {
   color: var(--nav-item-link-hover);
 }
 body,
