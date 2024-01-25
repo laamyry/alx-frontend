@@ -185,7 +185,7 @@ ul.row {
   display: table;
   clear: both;
 }
-[ata-section-theme="dark"] {
+[data-section-theme="dark"] {
   --color-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
