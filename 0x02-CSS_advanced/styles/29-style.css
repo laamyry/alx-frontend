@@ -151,7 +151,7 @@ a {
   display: var(--nav-item-display);
   margin: var(--nav-item-margin);
 }
-.nav .nav-item::before {
+.nav .nav-item::before:hover {
   background-color: var(--color-primary);
   width: 100%;
 }
@@ -166,7 +166,7 @@ a {
   left: 0;
   background-color: var(--color-white);
   width: 0;
-  height: 20%;
+  height: 0.2rem;
 }
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
